@@ -1,3 +1,5 @@
+Express.js middleware to fix office redirect/links.
+
 This is a fork from [spilliton/fix_microsoft_links](https://raw.githubusercontent.com/spilliton/fix_microsoft_links) adapted for node.js/express.
 
 ## Introduction
