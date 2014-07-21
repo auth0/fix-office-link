@@ -1,0 +1,22 @@
+{
+  "name": "fix-office-link",
+  "description": "Fix Microsoft Office links/redirects issue.",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/jfromaniello/fix-office-link.git"
+  },
+  "author": {
+    "name":   "José F. Romaniello",
+    "email":  "jfromaniello@gmail.com",
+    "url":    "http://joseoncode.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.11.0",
+    "chai":  "~1.7.0"
+  }
+}
